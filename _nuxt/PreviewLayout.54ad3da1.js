@@ -1,1 +1,0 @@
-import{k as t,b as _,c as o,Z as s}from"./entry.ff9944e3.js";const a={},r={class:"preview-layout"};function c(e,n){return _(),o("div",r,[s(e.$slots,"default",{},void 0,!0)])}const u=t(a,[["render",c],["__scopeId","data-v-5a06c441"]]);export{u as default};
