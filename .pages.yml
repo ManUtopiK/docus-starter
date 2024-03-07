@@ -3,7 +3,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: 'content'
+    path: 'content/test.md'
     view:
       fields: [ title, published, date ]
     fields:
