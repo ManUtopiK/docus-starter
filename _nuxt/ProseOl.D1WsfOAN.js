@@ -1,1 +1,0 @@
-import{l as c,b as o,c as r,Z as t}from"./entry.BhwFiNsy.js";const n={};function s(e,a){return o(),r("ol",null,[t(e.$slots,"default",{},void 0,!0)])}const d=c(n,[["render",s],["__scopeId","data-v-8c63ad6c"]]);export{d as default};
