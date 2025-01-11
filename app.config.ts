@@ -20,7 +20,11 @@ export default defineAppConfig({
           href: 'https://nuxt.com',
           icon: 'simple-icons:nuxtdotjs'
         }
-      ]
+      ],
+
+      credits: {
+        text: 'Powered by Docus and nuxt'
+      }
     }
   }
 })
